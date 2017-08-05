@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#F44336</color>
+    <color name="primary_dark">#D32F2F</color>
+    <color name="accent">#FFC107</color>
+
+
+    <color name="white">#FFF</color>
+    <color name="tab_strip">#B42929</color>
+
+
+    <color name="primary_pressed">#832121</color>
+    <color name="ripple">#FFF</color>
+
+</resources>

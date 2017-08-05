@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SoundRecorder</string>
+    <string name="recorder">Recorder</string>
+    <string name="recorder_file">RecorderFile</string>
+
+    <string name="record_prompt">按下按钮开始录音</string>
+    <string name="recording">录音中...</string>
+    <string name="start_record">开始录音</string>
+    <string name="stop_record">停止录音</string>
+
+
+</resources>
